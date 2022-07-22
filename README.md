@@ -17,6 +17,11 @@ The project demonstrates a classic GAN (Generative adversarial network) made wit
 
 ![2](https://github.com/abhaskumarsinha/Classic-Image-GAN/raw/main/sample-outputs/2.png)
 
+**After 10000 epochs**
+
+![3](https://github.com/abhaskumarsinha/Classic-Image-GAN/raw/main/sample-outputs/3.png)
+
+As we can see the phenomenon of *Model collapse* in some of the pixels where some of the pixels are dark black/Green/Blue/Red/White. It often happens because its easier for the *tanh* function to converge to end -1, +1 values more easily than the *sigmoid* activation function. The solution to Mode Collapse has been discussed better in DC-GAN Repo. The model fails to output multiple different outputs, instead, keeps rotating the noise on a single case.
 
 # Biblography
 
