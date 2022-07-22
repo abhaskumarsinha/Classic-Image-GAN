@@ -13,6 +13,11 @@ The project demonstrates a classic GAN (Generative adversarial network) made wit
 
 ![1](https://github.com/abhaskumarsinha/Classic-Image-GAN/raw/main/sample-outputs/1.png)
 
+**After 5000 epochs**
+
+![2](https://github.com/abhaskumarsinha/Classic-Image-GAN/raw/main/sample-outputs/2.png)
+
+
 # Biblography
 
 - I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio, “Generative adversarial nets,” in Advances in Neural Information Processing Systems, 2014, pp. 2672–2680.
