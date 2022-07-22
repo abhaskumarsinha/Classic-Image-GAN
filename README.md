@@ -10,6 +10,7 @@ The project demonstrates a classic GAN (Generative adversarial network) made wit
 ## Outputs
 
 **After 5 epochs**
+
 ![1](https://github.com/abhaskumarsinha/Classic-Image-GAN/raw/main/sample-outputs/1.png)
 
 # Biblography
